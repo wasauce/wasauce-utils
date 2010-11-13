@@ -4,4 +4,6 @@ This is a collection of python scripts that I commonly use in projects. The poin
 
 Utils:
 
-google_contacts_util -- This util helps you pull Google Contacts from an authenticated user. 
+-- google_contacts_util -- This util helps one pull Google Contacts from an authenticated user. 
+
+-- twillio_sms_util -- This util provides the functionality to send SMS via Twillio.
