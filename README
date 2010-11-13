@@ -7,3 +7,5 @@ Utils:
 -- google_contacts_util -- This util helps one pull Google Contacts from an authenticated user. 
 
 -- twillio_sms_util -- This util provides the functionality to send SMS via Twillio.
+
+-- salted_password_util -- This util provides a means of properly salting a password for storage.
